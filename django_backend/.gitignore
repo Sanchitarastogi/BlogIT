@@ -1,1 +1,10 @@
 bin/
+BlogIt_env/*
+.pyenv.cfg
+/**/bin/**/*
+/./**/bin/**/*
+./**/bin/**/*
+**/bin/**/*
+*/bin/**/*
+bin/**/*
+/**/lib/**/*
