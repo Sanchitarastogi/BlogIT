@@ -1,6 +1,6 @@
 bin/
 BlogIt_env/*
-./pyenv.cfg
+.pyenv.cfg
 /**/bin/**/*
 /./**/bin/**/*
 ./**/bin/**/*
